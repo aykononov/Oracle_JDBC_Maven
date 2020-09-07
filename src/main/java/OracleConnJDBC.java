@@ -20,14 +20,14 @@ public class OracleConnJDBC {
            System.out.println("\nВыборка данных из таблицы в консоль:");
            ResultSet rslt = stmt.executeQuery(SQL);
 
-             while(rslt.next()) {
-                int empno = rslt.getInt(1);
-                String ename = rslt.getString(2);
-                String hiredate = rslt.getString(3);
-                double sal = rslt.getDouble(4);
-                System.out.println(empno + " " + ename + "\t" + hiredate + "\t" + sal);
-                fout.write(empno + " " + ename + "\t" + hiredate + "\t" + sal + "\n");
-             }
+           while(rslt.next()) {
+              int empno = rslt.getInt(1);
+              String ename = rslt.getString(2);
+              String hiredate = rslt.getString(3);
+              double sal = rslt.getDouble(4);
+              System.out.println(empno + " " + ename + "\t" + hiredate + "\t" + sal);
+              fout.write(empno + " " + ename + "\t" + hiredate + "\t" + sal + "\n");
+           }
 
             System.out.println("\nДанные выборки успешно записаны в файл: " + path + file);
 
