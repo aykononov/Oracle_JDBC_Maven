@@ -10,6 +10,6 @@
 Полученный результат выводит на консоль и записывает по строкам в файл.
 Далее читает по строкам этот файл и выводит на консоль.
   
-[OracleConnJDBC - Консольная игра линейный морской бой](https://github.com/aykononov/Oracle_JDBC_Maven/tree/master/src/main/java/OracleConnJDBC.java "Посмотреть пример Java")
+[OracleConnJDBC - Пример работы с Базой Данных Oracle через драйвер JDBC](https://github.com/aykononov/Oracle_JDBC_Maven/tree/master/src/main/java/OracleConnJDBC.java "Посмотреть пример Java")
 
 </small>
