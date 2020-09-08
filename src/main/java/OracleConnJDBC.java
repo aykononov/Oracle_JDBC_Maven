@@ -10,7 +10,7 @@ public class OracleConnJDBC {
     static final String file = "outfile.txt";
     static final String path = "./target/";
 
-    public static void main(String[] args) throws ClassNotFoundException {
+    public static void main(String[] args) {
         System.out.println("Инициализация драйвера и подключение к базе данных...");
 
         try (Connection conn = DriverManager.getConnection(DATABASE_URL, USER, PASSWORD);
