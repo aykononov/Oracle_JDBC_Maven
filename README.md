@@ -1,15 +1,17 @@
-# Oracle + JDBC + Maven
 <small>
-
-## œËÏÂ ‡·ÓÚ˚ Ò ¡‡ÁÓÈ ƒ‡ÌÌ˚ı Oracle ˜ÂÂÁ ‰‡È‚Â JDBC + Maven.
-## Example of working with a Oracle Database using the ODBC driver + Maven.
-
->ƒÎˇ ‡·ÓÚ˚ ‰‡ÌÌÓ„Ó ÔËÏÂ‡, ÌÂÓ·ıÓ‰ËÏÓ ÛÒÚ‡ÌÓ‚ËÚ¸ [Oracle Database Express Edition (XE) Download](https://www.oracle.com/database/technologies/xe-downloads.html "Download")
->
-œËÏÂ ‰ÂÏÓÌÒÚËÛÂÚ ÔÓ‰ÍÎ˛˜ÂÌËÂ Í ¡‡ÁÂ ƒ‡ÌÌ˚ı Oracle ÒıÂÏ‡ SCOTT Ë ‚˚ÔÓÎÌˇÂÚ ‚˚·ÓÍÛ ËÁ Ú‡·ÎËˆ˚ EMP. 
-œÓÎÛ˜ÂÌÌ˚È ÂÁÛÎ¸Ú‡Ú ‚˚‚Ó‰ËÚ Ì‡ ÍÓÌÒÓÎ¸ Ë Á‡ÔËÒ˚‚‡ÂÚ ÔÓ ÒÚÓÍ‡Ï ‚ Ù‡ÈÎ.
-ƒ‡ÎÂÂ ˜ËÚ‡ÂÚ ÔÓ ÒÚÓÍ‡Ï ˝ÚÓÚ Ù‡ÈÎ Ë ‚˚‚Ó‰ËÚ Ì‡ ÍÓÌÒÓÎ¸.
   
-[OracleConnJDBC - œËÏÂ ‡·ÓÚ˚ Ò ¡‡ÁÓÈ ƒ‡ÌÌ˚ı Oracle ˜ÂÂÁ ‰‡È‚Â JDBC](https://github.com/aykononov/Oracle_JDBC_Maven/tree/master/src/main/java/OracleConnJDBC.java "œÓÒÏÓÚÂÚ¸ ÔËÏÂ Java")
+## Maven + Oracle + JDBC 
+
+### –ü—Ä–∏–º–µ—Ä —Ä–∞–±–æ—Ç—ã —Å –ë–∞–∑–æ–π –î–∞–Ω–Ω—ã—Ö Oracle —á–µ—Ä–µ–∑ –¥—Ä–∞–π–≤–µ—Ä JDBC + Maven.
+
+### Example of working with a Oracle Database using the ODBC driver + Maven.
+
+>–î–ª—è —Ä–∞–±–æ—Ç—ã –¥–∞–Ω–Ω–æ–≥–æ –ø—Ä–∏–º–µ—Ä–∞, –Ω–µ–æ–±—Ö–æ–¥–∏–º–æ —É—Å—Ç–∞–Ω–æ–≤–∏—Ç—å [Oracle Database Express Edition (XE) Download](https://www.oracle.com/database/technologies/xe-downloads.html "Download")
+>
+–ü—Ä–∏–º–µ—Ä –¥–µ–º–æ–Ω—Å—Ç—Ä–∏—Ä—É–µ—Ç –ø–æ–¥–∫–ª—é—á–µ–Ω–∏–µ –∫ –ë–∞–∑–µ –î–∞–Ω–Ω—ã—Ö Oracle —Å—Ö–µ–º–∞ SCOTT –∏ –≤—ã–ø–æ–ª–Ω—è–µ—Ç –≤—ã–±–æ—Ä–∫—É –∏–∑ —Ç–∞–±–ª–∏—Ü—ã EMP. 
+–ü–æ–ª—É—á–µ–Ω–Ω—ã–π —Ä–µ–∑—É–ª—å—Ç–∞—Ç –≤—ã–≤–æ–¥–∏—Ç –Ω–∞ –∫–æ–Ω—Å–æ–ª—å –∏ –∑–∞–ø–∏—Å—ã–≤–∞–µ—Ç –ø–æ —Å—Ç—Ä–æ–∫–∞–º –≤ —Ñ–∞–π–ª.
+–î–∞–ª–µ–µ —á–∏—Ç–∞–µ—Ç –ø–æ —Å—Ç—Ä–æ–∫–∞–º —ç—Ç–æ—Ç —Ñ–∞–π–ª –∏ –≤—ã–≤–æ–¥–∏—Ç –Ω–∞ –∫–æ–Ω—Å–æ–ª—å.
+  
+[OracleConnJDBC - –ü—Ä–∏–º–µ—Ä —Ä–∞–±–æ—Ç—ã —Å –ë–∞–∑–æ–π –î–∞–Ω–Ω—ã—Ö Oracle —á–µ—Ä–µ–∑ –¥—Ä–∞–π–≤–µ—Ä JDBC](https://github.com/aykononov/Oracle_JDBC_Maven/tree/master/src/main/java/OracleConnJDBC.java "–ü–æ—Å–º–æ—Ç—Ä–µ—Ç—å –ø—Ä–∏–º–µ—Ä Java")
 
 </small>
