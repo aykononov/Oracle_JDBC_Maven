@@ -1,8 +1,8 @@
 <small>
   
-## Maven + Oracle + JDBC 
-
 ### Пример работы с Базой Данных Oracle через драйвер JDBC + Maven.
+
+Maven + JDBC + Oracle
 
 ### Example of working with a Oracle Database using the ODBC driver + Maven.
 
