@@ -15,3 +15,20 @@ Maven + JDBC + Oracle
 [OracleConnJDBC - Пример работы с Базой Данных Oracle через драйвер JDBC](https://github.com/aykononov/Oracle_JDBC_Maven/tree/master/src/main/java/OracleConnJDBC.java "Посмотреть пример Java")
 
 </small>
+
+<details><summary>таблица ...</summary>
+ ```sql
+  create table EMP
+(
+  empno    NUMBER(4) not null,
+  ename    VARCHAR2(10),
+  job      VARCHAR2(9),
+  mgr      NUMBER(4),
+  hiredate DATE,
+  sal      NUMBER(7,2),
+  comm     NUMBER(7,2),
+  deptno   NUMBER(2),
+  add constraint PK_EMP primary key (EMPNO)
+);
+ ```
+</details>
