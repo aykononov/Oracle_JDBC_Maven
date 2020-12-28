@@ -17,6 +17,7 @@ Maven + JDBC + Oracle
 </small>
 
 <details><summary>таблица ...</summary>
+  
  ```sql
   create table EMP
 (
@@ -31,4 +32,5 @@ Maven + JDBC + Oracle
   add constraint PK_EMP primary key (EMPNO)
 );
  ```
+ 
 </details>
